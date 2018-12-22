@@ -1,4 +1,4 @@
-def solution(input):
+def solutionA(input):
     alphabet = list('abcdefghijklmnopqrstuvwxyz')
 
 
