@@ -36,7 +36,7 @@ def decodeInput(input):
 
 
 if __name__ == '__main__':
-    inputFileName = 'input.AOCInput'
+    inputFileName = '../Inputs/input.AOCInput'
 
     with open(inputFileName, 'r') as inputFile:
         print(solution(decodeInput(inputFile.read())))
