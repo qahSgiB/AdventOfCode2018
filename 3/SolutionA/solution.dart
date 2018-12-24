@@ -18,13 +18,6 @@ class Claim {
     Claim(this.id, this.x, this.y, this.width, this.height);
 }
 
-class Range {
-    int start;
-    int end;
-
-    Range(this.start, this.end);
-}
-
 
 
 void main() async {
