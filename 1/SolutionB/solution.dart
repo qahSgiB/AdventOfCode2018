@@ -3,7 +3,7 @@ import 'dart:async';
 
 
 
-String inputFilePath = '../Inputs/input.AOCInput';
+String inputFilePath = '../Inputs/Input.AOCInput';
 
 
 
